@@ -1,4 +1,4 @@
-# visual music: 
+# Visual music: 
 Use a still design to represent music (Carl Orff - O Fortuna ~ Carmina Burana)
 
 
