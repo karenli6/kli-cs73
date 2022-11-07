@@ -1,4 +1,4 @@
-# house parties
+# A collection of lines
 
 
 Demonstration Image (100,000 lines):
