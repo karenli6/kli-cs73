@@ -1,4 +1,4 @@
-# house parties
+# House parties dataset
 
 
 Demonstration Image:
