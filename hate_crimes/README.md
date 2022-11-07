@@ -1,4 +1,4 @@
-# Hate Crimes
+# History of hate crimes
 
 Demonstration Video:
 
