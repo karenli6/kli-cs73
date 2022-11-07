@@ -1,4 +1,4 @@
-# Deconstructed Clock
+# Dynamic deconstructed clock
 
 Demonstration Video:
 
